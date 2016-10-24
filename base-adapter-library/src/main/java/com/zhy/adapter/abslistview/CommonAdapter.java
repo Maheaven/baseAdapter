@@ -1,7 +1,6 @@
 package com.zhy.adapter.abslistview;
 
 import android.content.Context;
-import android.view.View;
 
 import com.zhy.adapter.abslistview.base.ItemViewDelegate;
 

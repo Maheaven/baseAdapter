@@ -1,7 +1,6 @@
 package com.zhy.adapter.abslistview.base;
 
 
-import android.view.View;
 
 import com.zhy.adapter.abslistview.ViewHolder;
 
