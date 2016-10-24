@@ -7,6 +7,10 @@ import com.zhy.adapter.abslistview.base.ItemViewDelegate;
 
 import java.util.List;
 
+/**
+ * commonadapter
+ * @param <T>
+ */
 public abstract class CommonAdapter<T> extends MultiItemTypeAdapter<T>
 {
 
