@@ -15,7 +15,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * example
+ * example activity
  */
 public class MainActivity extends AppCompatActivity
 {
