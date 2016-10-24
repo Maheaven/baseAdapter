@@ -14,6 +14,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * example
+ */
 public class MainActivity extends AppCompatActivity
 {
     private List<String> mDatas = new ArrayList<>(Arrays.asList("MultiItem ListView",
